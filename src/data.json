@@ -1,0 +1,185 @@
+{
+"Input" : [
+    {
+        "id":1,
+        "img":"https://images.pexels.com/photos/145683/pexels-photo-145683.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "content":[
+            {
+                "id":1,
+                "head":"Change main colors",
+                "body":"Change default colors"
+        }
+            
+        ]
+    },
+    {
+        "id":2,
+        "img":"https://images.pexels.com/photos/163064/play-stone-network-networked-interactive-163064.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "content":[
+            {
+                "id":2,
+                "head":"Live CSS editor",
+                "body":"Edit custom CSS and preview it live"
+        }
+            
+        ]
+    },
+    {
+        "id":3,
+        "img":"https://images.pexels.com/photos/159304/network-cable-ethernet-computer-159304.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "content":[
+            {
+                "id":3,
+                "head":"Set global layout mode",
+                "body":"Change gloal layout mode to Full Width"
+        }
+            
+        ]
+    },
+    {
+        "id":4,
+        "img":"https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+         "content":[
+            {
+                "id":4,
+                "head":"Custom site",
+                "body":"Change default colors"
+        }
+            
+        ]
+    },
+    {
+        "id":5,
+        "img":"https://images.pexels.com/photos/1268129/pexels-photo-1268129.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" ,
+           "content":[
+            {
+                "id":5,
+                "head":"Google fonts",
+                "body":"Choose b/w 700+ fonts"
+        }
+            
+        ]
+    },
+    {
+        "id":6,
+        "img":"https://www.gannett-cdn.com/-mm-/05e97d16e7fb53439a4222e53dcba47d4d31dde8/c=0-97-1280-584/local/-/media/USATODAY/USATODAY/2014/06/04/1401911998000-AP-Color-Cosmos.jpg?width=3200&height=1680&fit=crop",
+        "content":[
+            {
+                "id":6,
+                "head":"Customize anything",
+                "body":"Custom and preview it live"
+        }
+            
+        ]
+    }
+],
+
+
+"cosmo":[
+    {
+        "id":1,
+        "image":"https://cdn.britannica.com/51/157551-131-44092D74/Solar-system-illustration.jpg",
+        "head":"UX Builder",
+        "body":"Custom "
+    },
+    {
+        "id":2,
+        "image":"https://images.pexels.com/photos/33153/raisting-sattelit-reception-signal.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+         "head":"Header Designer",
+        "body":"preview it live"
+    },
+    {
+        "id":3,
+        "image":"https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+         "head":"Shop",
+        "body":"Lorem ipsum "
+    },
+    {
+        "id":4,
+        "image":"https://images.pexels.com/photos/296085/pexels-photo-296085.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",  "head":"options",
+        "body":"dolor sit amet"
+    },
+    {
+        "id":5,
+        "image":"https://images.pexels.com/photos/1042143/pexels-photo-1042143.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",  "head":" anything",
+        "body":"consectetur adipiscing"
+    },
+    {
+        "id":6,
+        "image":"https://images.pexels.com/photos/4050319/pexels-photo-4050319.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",   "head":"Customize",
+        "body":"eiusmod tempor "
+    },
+    {
+        "id":7,
+        "image":"https://images.pexels.com/photos/50711/board-electronics-computer-data-processing-50711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" ,   "head":"Feature",
+        "body":" incididunt ut labore "
+    },
+    {
+        "id":8,
+        "image":"https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",     "head":"Fast Performance",
+        "body":"enim ad minim"
+    },
+    {
+        "id":9,
+        "image":"https://images.pexels.com/photos/1194713/pexels-photo-1194713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",   "head":"Reviews",
+        "body":"laboris nisi ut"
+    },
+    {
+        "id":10,
+        "image":"https://images.pexels.com/photos/5483064/pexels-photo-5483064.jpeg?cs=srgb&dl=pexels-cottonbro-5483064.jpg&fm=jpg",  "head":"Footer",
+        "body":"commodo consequat"
+    },
+    {
+        "id":11,
+        "image":"https://images.pexels.com/photos/209151/pexels-photo-209151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",  "head":"Elements",
+        "body":"aliquip ex ea"
+    },
+    {
+        "id":12,
+        "image":"https://images.pexels.com/photos/2569997/pexels-photo-2569997.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",  "head":"Videos",
+        "body":"fugiat nulla"
+    },
+    {
+        "id":13,
+        "image":"https://images.pexels.com/photos/34490/keyboard-computer-keys-white.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",   "head":"Block elements",
+        "body":"eiusmod tempo"
+    },
+    {
+        "id":14,
+        "image":"https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?cs=srgb&dl=pexels-format-1029757.jpg&fm=jpg",  "head":"Blog",
+        "body":"laborum."
+    },
+    {
+        "id":15,
+        "image":"https://images.pexels.com/photos/242492/pexels-photo-242492.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",   "head":"Features",
+        "body":"proident, sunt"
+    },
+    {
+        "id":16,
+        "image":"https://images.pexels.com/photos/935979/pexels-photo-935979.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",  "head":"Gettin Started",
+        "body":"magna aliqua"
+    },
+    {
+        "id":17,
+        "image":"https://images.pexels.com/photos/1181345/pexels-photo-1181345.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",  "head":"Portfolio",
+        "body":" reprehenderit in"
+    },
+    {
+        "id":18,
+        "image":"https://images.pexels.com/photos/1216544/pexels-photo-1216544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",   "head":"Sticky Sections",
+        "body":"nostrud exercitation"
+    },
+    {
+        "id":19,
+        "image":"https://images.pexels.com/photos/2566581/pexels-photo-2566581.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",  "head":"Single Page Navigation",
+        "body":"nulla pariatur."
+    },
+    {
+        "id":20,
+        "image":"https://images.pexels.com/photos/356043/pexels-photo-356043.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",  "head":"Flatsome community",
+        "body":"minim veniam"
+    }
+    
+
+]
+}

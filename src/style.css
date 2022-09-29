@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+/*header*/
+.dhead{
+    width: 100%;
+    height:100px;
+    background-color:#445e85;
+    color: #fff;
+}
+.logo{
+    float: left;
+    margin-left: 50px;
+    margin-top: 18px;
+}
+
+.navbar{
+    float: right;
+}
+
+.nav{
+    width:100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 0;
+    
+    
+}
+
+nav ul li{
+    
+    display: inline-block;
+    list-style: none;
+    margin:10px 30px;
+    margin-top: 26px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #ffffff;
+}
+nav ul li a:hover{
+    color: #fbc623;
+}
+
+ 
+
+/*landing*/
+.layouta{
+    background-color:#e5ebed;
+    height: 625px;
+    width: 100%;
+    
+}
+.txtcenter{
+    text-align: center;
+   padding-top: 20px;
+   color: #555555;
+}
+
+.txtcont{
+    text-align: center;
+   font-family: 'Poppins', sans-serif;
+   color: #555555;
+}
+.fafanew{
+    text-align: center; 
+    color: #555555;
+    font-weight: 900;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.bgmx{
+    background-image:url("../public/img/Capture.PNG");
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    margin-left: 26%;
+
+   
+}
+
+.imgx{
+    /* background-image: url("https://www.gannett-cdn.com/-mm-/05e97d16e7fb53439a4222e53dcba47d4d31dde8/c=0-97-1280-584/local/-/media/USATODAY/USATODAY/2014/06/04/1401911998000-AP-Color-Cosmos.jpg?width=3200&height=1680&fit=crop"); */
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    border-radius: 5px
+}
+
+.cust{
+    border: 0px !important;
+}
+
+.head {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #555555; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+    
+ } 
+ 
+ .htext { 
+     background:#fff; 
+     font-size: 24px;
+     padding:0 10px; 
+     color: #555555;
+ }
+ .imgf{
+    /* background-image: url("https://cdn.britannica.com/51/157551-131-44092D74/Solar-system-illustration.jpg"); */
+    height: 190px !important ;
+    background-size: 309px 184px;
+    background-repeat: no-repeat;
+    width: 100%;
+    border-radius: 5px 5px 0px 0px;
+    border:0px !important
+ }
+
+ .cart{
+    height: 293px !important;
+    border: 1px solid #b9b9b9;
+    border-radius: 7px !important;
+ }
+
+ .rowspan{
+   /* background-color: #445e85; */
+  display: inline-flexbox !important;
+   
+ }
+
+ .item{
+    /* background-color: #fbc623; */
+    margin-left: 1% !important;
+    margin-right: 1% !important;
+    margin-bottom: 1% !important;
+    width:10.333% !important;
+
+ }
+
+ .cartx{
+    height: 100px !important;
+    border: 1px solid #b9b9b9;
+    border-radius: 7px !important;
+ }
+ .imgtx{
+    height: 72px;
+    border-radius: 5px 5px 0px 0px;
+  
+    /* background-image:url("../public//img/one.jpg"); */
+    width: 65%;
+    background-size: 309px 184px;
+    background-repeat: no-repeat;
+    padding: 5px;
+    margin-left: 18%;
+ }
+
+ /*footer*/
+
+
+.footer .goTop:hover {
+    opacity: 0.7;
+  }
+  
+  .footer .fas {
+    color: #1890ff;
+    font-size: 28px;
+    margin: 0 5px 0 0;
+  }
+  
+  .ant-layout-footer {
+    background: #111 !important;
+    color: #fff !important;
+    padding: 60px 0 !important;
+    text-align: center;
+  }
+  
+  .footerbusy{
+    background-color:#5b5b5b !important;
+    
+  }
+  .txtword .a{
+    color: #cecece;
+  }
+
+
+footer {
+    padding: 5rem 0;
+    background-color: #777777;
+    color: #fff;
+  }
+  
+  footer h4 {
+    color: #fff;
+  }
+  
+  footer li {
+    list-style: none;
+    font-size: 1.5rem;
+    font-weight: lighter;
+    color: #fff;
+    cursor: pointer;
+    margin: 1rem 0;
+  }
+  
+  footer li:hover {
+    color: var(--primary-color);
+  }
+  
+  footer .fontawesome-style {
+    font-size: 2.3rem;
+    color: var(--primary-color);
+    background-color: transparent;
+    width: 0rem;
+    height: 0rem;
+    margin: 2rem 0;
+    cursor: pointer;
+  }
+  
+  footer .fontawesome-style:hover {
+    transition: all 1s;
+    animation: rotatefont 1s linear infinite alternate-reverse;
+    color: #fff;
+  }
+  
+  .ant-layout-footer {
+    background: #111 !important;
+    color: #fff !important;
+    padding: 60px 0 !important;
+    text-align: center;
+  }
+  
+.area{
+    border-radius: 30px !important;
+    background-color: transparent !important;
+    color: #ffffff !important;
+}  
+
+.fbutton{
+    border-radius: 30px !important;
+    color: #fff !important;
+    background-color: #445e85 !important;
+    border: 0px !important;
+}
+area::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color:#ffffff !important;
+    opacity: 1; /* Firefox */
+  }
+.fline{
+    text-align: center !important;
+}
